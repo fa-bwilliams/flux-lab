@@ -4,4 +4,4 @@ metadata:
   name: flux-lab
   namespace: default
 data:
-  message: "Hello from GitOps!"
+  message: "Hello from GitOps v2!"
