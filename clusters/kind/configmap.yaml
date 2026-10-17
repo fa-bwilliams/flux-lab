@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: flux-lab
-  namespace: default
-data:
-  message: "Hello from GitOps v2!"
